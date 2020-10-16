@@ -1,11 +1,9 @@
 # Miproyecto
 Proyecto Personal
-Empresa Comercial mexicana.
-Conocer el ticket promedio dadas zonas donde se ubiquen sucursales, identificar cuales son los productos de mayor demanda y la variación/diferencia entre las zonas.
-Identificar y patronar acciones
 
+CADENS DE SUPERMERCADO EN TIEMPOS DE PANDEMIA.
 
-Ocupe 2 herramientas 
+Utilice 2 herramientas. 
+SQL y Python
 
-SQL: Poder hacer una mejor estructura y resumen de calidad de mi tabla madre 
-Python:
+Adjunte script que utilice para SQL y link del Colab como de mi presentación. 
